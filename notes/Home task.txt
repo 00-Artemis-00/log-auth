@@ -1,0 +1,11 @@
+1. create new brahch
+2. make some changes and add, 
+3. get pull orgin/development
+4. git merge development
+5. git status
+6. git add .
+7. git comment -m "syncing my 
+git push
+8. git push
+9. crate PR (pull request from your branch to development)
+10. pretend you are the lead, and approve your PR and merge to development
